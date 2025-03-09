@@ -73,5 +73,23 @@ A web-based **Employee Management and Examination System** built using **PHP** a
 
 ---
 
-### 📬 Need Help?  
-Feel free to reach out if you have any questions or need further improvements! 🚀🎯
+## 📜 License
+
+This project is open-source and free to use.
+
+---
+
+## 🤝 Contributing
+
+Feel free to contribute! Fork the repo, make changes, and submit a pull request.
+
+---
+
+## 📩 Contact
+
+For any queries, reach out to your-email@example.com or create an issue in the repository.
+
+---
+
+Developed with ❤️ By Ashish Srivastava & Md. Shamse Alam
+
