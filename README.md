@@ -1,4 +1,4 @@
-# Employee Management & Examination System 📚💼  
+# 📌 Employee Management & Examination System 📚💼  
 
 A web-based **Employee Management and Examination System** built using **PHP** and **Bootstrap 5** to streamline employee records, manage examiners, conduct online tests, and track results effortlessly.  
 
@@ -79,17 +79,11 @@ This project is open-source and free to use.
 
 ---
 
-## 🤝 Contributing
+## 👨‍💻 Contributors
+Special thanks to the amazing developers who contributed to this project! 🚀
 
-Feel free to contribute! Fork the repo, make changes, and submit a pull request.
-
----
-
-## 📩 Contact
-
-For any queries, reach out to your-email@example.com or create an issue in the repository.
+<table> <tr> <td align="center"> <a href="https://github.com/mdshamse1"> <img src="https://avatars.githubusercontent.com/u/117460594?v=4" width="100px;" alt="Ashish Srivastava"/> <br /> <sub><b>Ashish Srivastava</b></sub> </a> </td> <td align="center"> <a href="https://github.com/your-github-profile"> <img src="https://github.com/your-github-profile.png" width="100px;" alt="Md. Shamse Alam"/> <br /> <sub><b>Md. Shamse Alam</b></sub> </a> </td> </tr> </table>
 
 ---
 
-Developed with ❤️ By Ashish Srivastava & Md. Shamse Alam
-
+Developed with ❤️ by [Ashish Srivastava](https://www.linkedin.com/in/text-ashish/) & [Md. Shamse Alam](https://www.linkedin.com/in/mdshamse/)  
