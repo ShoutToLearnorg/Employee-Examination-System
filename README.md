@@ -82,7 +82,24 @@ This project is open-source and free to use.
 ## 👨‍💻 Contributors
 Special thanks to the amazing developers who contributed to this project! 🚀
 
-<table> <tr> <td align="center"> <a href="https://github.com/mdshamse1"> <img src="https://avatars.githubusercontent.com/u/117460594?v=4" width="100px;" alt="Ashish Srivastava"/> <br /> <sub><b>Ashish Srivastava</b></sub> </a> </td> <td align="center"> <a href="https://github.com/your-github-profile"> <img src="https://github.com/your-github-profile.png" width="100px;" alt="Md. Shamse Alam"/> <br /> <sub><b>Md. Shamse Alam</b></sub> </a> </td> </tr> </table>
+<table>
+  <tr>
+    <td align="center" style="padding: 20px;">
+      <a href="https://github.com/shouttolearnorg">
+        <img src="https://avatars.githubusercontent.com/u/98154274?v=4" width="100px" style="border-radius: 50%;" alt="Ashish Srivastava"/>
+        <br />
+        <sub><b>Ashish Srivastava</b></sub>
+      </a>
+    </td>
+    <td align="center" style="padding: 20px;">
+      <a href="https://github.com/mdshamse1">
+        <img src="https://avatars.githubusercontent.com/u/117460594?v=4" width="100px" style="border-radius: 50%;" alt="Md. Shamse Alam"/>
+        <br />
+        <sub><b>Md. Shamse Alam</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
